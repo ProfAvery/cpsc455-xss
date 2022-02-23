@@ -1,0 +1,17 @@
+{
+  "name": "cpsc455-xss",
+  "version": "1.0.0",
+  "description": "CPSC 455 - Spring 2022",
+  "scripts": {
+    "start": "python3 -m http.server --cgi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProfAvery/cpsc455-xss.git"
+  },
+  "author": "Kenytt Avery",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "ejs": "^3.1.6"
+  }
+}
